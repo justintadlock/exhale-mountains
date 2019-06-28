@@ -14,7 +14,7 @@
 return [
 	'headings'  => [
 		'family' => 'oleo-script',
-		'style' => '400'
+		'style'  => '400'
 	],
 	'primary'   => [
 		'family' => 'source-sans-pro'

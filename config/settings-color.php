@@ -14,7 +14,7 @@
 return [
 	'content-background'   => [ 'color' => 'ffffff' ],
 	'primary'              => [ 'color' => '555555' ],
-	'primary-link'         => [ 'color' => '6a87f1' ],
+	'primary-link'         => [ 'color' => '008dc5' ],
 	'primary-link-hover'   => [ 'color' => '101010' ],
 	'secondary'            => [ 'color' => 'adadad' ],
 	'secondary-link'       => [ 'color' => 'adadad' ],
